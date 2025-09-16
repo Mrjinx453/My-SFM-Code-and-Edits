@@ -1,0 +1,7 @@
+Every 21 ticks do
+
+    Input "something*" from "Block*"
+    Output "something2*" to "Block2*"
+forget
+
+End
